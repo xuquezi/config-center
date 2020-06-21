@@ -1,2 +1,3 @@
-info:
-  profile: dev
+user:
+    userName: dev
+    age: 18
